@@ -9,6 +9,6 @@ name=mike
 # key=value
 # using $a
 
-echo "value of \e[32m $a \e[0m"
-echo "value of \e[32m $b \e[0m"
-echo "value of \e[31m $name \e[0m"
+echo -e "value of \e[32m $a \e[0m"
+echo -e "value of \e[32m $b \e[0m"
+echo -e "value of \e[31m $name \e[0m"
