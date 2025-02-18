@@ -1,5 +1,5 @@
 #!/bin/bash
-# comes with pre-defined values
+# comes with pre-defined values, here it is $0
 
 a=1000
 TEAM=$1
