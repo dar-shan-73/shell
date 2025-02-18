@@ -6,4 +6,4 @@
 echo line1
 echo line2
 
-echo -e "line3 \n line4"
+echo -e "line3 \nline4"
