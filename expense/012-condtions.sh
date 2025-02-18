@@ -35,6 +35,6 @@ elif [ "$ACTION" = "restart" ] ; then
     exit 2
 
 else
-    echo -e "\e[33m valid optiong are start stop restart \e[0m"
+    echo -e "\e[33m valid options are start stop restart \e[0m"
     exit 3
 fi        
