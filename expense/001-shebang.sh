@@ -8,4 +8,4 @@ echo line2
 
 echo -e "line3 \nline4"
 
-echo "devops\twith\tdevops\training\tprogram"
+echo -e "devops\twith\tdevops\training\tprogram"
